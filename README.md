@@ -50,8 +50,8 @@ I am a passionate Software Project Engineer with extensive experience in embedde
 !Contact
 
 - **Email**: kishor.bamane@honeywell.com
-- **LinkedIn**: Your LinkedIn Profile
-- **GitHub**: Your GitHub Profile
+- **LinkedIn**: https://www.linkedin.com/in/kishor-bamane-7a394936?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BQedelh58RZqGeoorSWdinw%3D%3D
+- **GitHub**: https://github.com/bamanekishor04/K4SI
 
 ---
 
